@@ -24,8 +24,8 @@ First, you need to clone the repository:
 
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/johnnabil/Todo-CRUD.git
+cd Todo-CRUD
 ```
 Next, install the dependencies:
 ```bash
